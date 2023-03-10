@@ -1,0 +1,13 @@
+{
+  "id" : "https://andreaarnoldoggier.github.io/testanar/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in andreaarnoldoggier/testanar project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://andreaarnoldoggier.github.io/testanar/manifests/299843.json",
+    "label" : "Self-Portrait Dedicated to Paul Gauguin"
+  } ]
+}
